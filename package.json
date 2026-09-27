@@ -1,0 +1,9 @@
+{
+  "name": "ren-x-asta-md",
+  "version": "1.0.0",
+  "description": "REN X ASTA MD WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
